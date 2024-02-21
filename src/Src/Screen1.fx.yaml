@@ -249,3 +249,16 @@ Screen1 As screen:
                 RadiusTopRight: =8
                 ZIndex: =5
 
+                CheckboxCanvas1 As Checkbox:
+                    DisplayMode: =DisplayMode.Edit
+                    Height: =32
+                    Label: ="Hello"
+                    LayoutMinHeight: =32
+                    LayoutMinWidth: =160
+                    OnCheck: =false
+                    OnUncheck: =false
+                    Width: =160
+                    X: =0
+                    Y: =0
+                    ZIndex: =1
+
