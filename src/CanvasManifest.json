@@ -33,11 +33,11 @@
       "disableruntimepolicies": false,
       "dynamicschema": false,
       "enableappembeddingux": false,
-      "enablechatbotfeature": true,
       "enablecomponentnamemaps": false,
       "enablecomponentscopeoldbehavior": false,
       "enablecopilotanswercontrol": true,
       "enablecopilotcontrol": true,
+      "enablechatbotfeature": true,
       "enabledataverseoffline": false,
       "enableeditcacherefreshfrequency": false,
       "enableexcelonlinebusinessv2connector": true,
@@ -131,7 +131,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
     "Screen1",

@@ -17,15 +17,15 @@
                   "fullyQualifiedName": "Screen1"
                 }
               ],
+              "properties": {
+                "module": "Screen1",
+                "type": "Screen1"
+              },
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "Screen1",
                   "relativeAddress": 0
                 }
-              },
-              "properties": {
-                "module": "Screen1",
-                "type": "Screen1"
               }
             }
           ],
@@ -46,16 +46,16 @@
                   "fullyQualifiedName": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2.AccessibleLabel"
                 }
               ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Screen1",
+                "type": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2"
+              },
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2.AccessibleLabel",
                   "relativeAddress": 0
                 }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Screen1",
-                "type": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2"
               }
             }
           ],
@@ -76,16 +76,16 @@
                   "fullyQualifiedName": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2.TabIndex"
                 }
               ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "Screen1",
+                "type": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2"
+              },
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2.TabIndex",
                   "relativeAddress": 0
                 }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Screen1",
-                "type": "Screen1.ScreenContainer1.BottomContainer1.SidebarContainer1.Gallery2"
               }
             }
           ],
@@ -106,15 +106,15 @@
                   "fullyQualifiedName": "Screen2"
                 }
               ],
+              "properties": {
+                "module": "Screen2",
+                "type": "Screen2"
+              },
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "Screen2",
                   "relativeAddress": 0
                 }
-              },
-              "properties": {
-                "module": "Screen2",
-                "type": "Screen2"
               }
             }
           ],
