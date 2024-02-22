@@ -2,7 +2,9 @@
     LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     ButtonCanvas2 As Button:
+        BasePaletteColor: =
         DisplayMode: =DisplayMode.Edit
+        FontColor: =
         Height: =32
         Width: =96
         X: =40
@@ -10,7 +12,9 @@
         ZIndex: =2
 
     ButtonCanvas3 As Button:
+        BasePaletteColor: =
         DisplayMode: =DisplayMode.Edit
+        FontColor: =
         Height: =32
         Width: =96
         X: =60
