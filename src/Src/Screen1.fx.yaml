@@ -55,7 +55,7 @@ Screen1 As screen:
                 DisplayMode: =DisplayMode.View
                 FontWeight: =FontWeight.Bold
                 Size: =15
-                Text: ="FSS Flex Insurance11"
+                Text: ="FSS Flex Insurance TEST FIXX"
                 Width: =312
                 ZIndex: =2
 
@@ -250,7 +250,9 @@ Screen1 As screen:
                 ZIndex: =5
 
                 CheckboxCanvas1 As Checkbox:
+                    BasePaletteColor: =
                     DisplayMode: =DisplayMode.Edit
+                    FontColor: =
                     Height: =32
                     Label: ="Hello"
                     LayoutMinHeight: =32
