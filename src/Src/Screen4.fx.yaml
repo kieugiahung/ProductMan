@@ -46,3 +46,19 @@
             RadiusTopRight: =8
             ZIndex: =3
 
+    ButtonCanvas2 As Button:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =40
+        Y: =40
+        ZIndex: =2
+
+    ButtonCanvas3 As Button:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =96
+        X: =60
+        Y: =60
+        ZIndex: =3
+
