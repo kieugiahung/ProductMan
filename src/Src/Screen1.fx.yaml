@@ -55,7 +55,7 @@ Screen1 As screen:
                 DisplayMode: =DisplayMode.View
                 FontWeight: =FontWeight.Bold
                 Size: =15
-                Text: ="FSS Flex Insurance TEST FIXX"
+                Text: ="FSS Flex Insurance TEST FIXXx"
                 Width: =312
                 ZIndex: =2
 
@@ -199,7 +199,7 @@ Screen1 As screen:
                         Text: =ThisItem.SampleHeading
                         VerticalAlign: =VerticalAlign.Top
                         Width: =Parent.TemplateWidth - 86
-                        X: =86
+                        X: =79
                         Y: =25
                         ZIndex: =1
 
