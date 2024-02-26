@@ -14,1655 +14,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".cr282_tuoi_tu"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_tuoi_tu"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": ".edited"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "edited"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.Items",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.Items",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 56,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SortByColumns(dvTuoiCollect,\"Value\",SortOrder.Ascending)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SortByColumns"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 20,
-                  "charOffset": 19,
-                  "snippet": {
-                    "text": ".cr282_donvi_tuoi_tu"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_donvi_tuoi_tu"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 37,
-                  "charOffset": 3,
-                  "snippet": {
-                    "text": "IsBlank(ThisItem.cr282_donvi_tuoi_tu)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "IsBlank"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 48,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 32,
-                  "charOffset": 41,
-                  "snippet": {
-                    "text": "LookUp(dvTuoiCollect,Key=\"Tuổi\")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "LookUp"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 3,
-                  "charOffset": 62,
-                  "snippet": {
-                    "text": "Key"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Key"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 65,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 81,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 56,
-                  "charOffset": 74,
-                  "snippet": {
-                    "text": "LookUp(dvTuoiCollect,Value=ThisItem.cr282_donvi_tuoi_tu)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "LookUp"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 95,
-                  "snippet": {
-                    "text": "Value"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Value"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 20,
-                  "charOffset": 109,
-                  "snippet": {
-                    "text": ".cr282_donvi_tuoi_tu"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_donvi_tuoi_tu"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 100,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 131,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "If(IsBlank(ThisItem.cr282_donvi_tuoi_tu),LookUp(dvTuoiCollect,Key=\"Tuổi\"),LookUp(dvTuoiCollect,Value=ThisItem.cr282_donvi_tuoi_tu))"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "_Min"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrBadType-Type",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": ".edited"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "edited"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 15,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".cr282_tuoi_den"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_tuoi_den"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": ".edited"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "edited"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 21,
-                  "charOffset": 19,
-                  "snippet": {
-                    "text": ".cr282_donvi_tuoi_den"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_donvi_tuoi_den"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 38,
-                  "charOffset": 3,
-                  "snippet": {
-                    "text": "IsBlank(ThisItem.cr282_donvi_tuoi_den)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "IsBlank"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 49,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 31,
-                  "charOffset": 42,
-                  "snippet": {
-                    "text": "LookUp(dvTuoiCollect,Value=100)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "LookUp"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 63,
-                  "snippet": {
-                    "text": "Value"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Value"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 68,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 81,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 57,
-                  "charOffset": 74,
-                  "snippet": {
-                    "text": "LookUp(dvTuoiCollect,Value=ThisItem.cr282_donvi_tuoi_den)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "LookUp"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 95,
-                  "snippet": {
-                    "text": "Value"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Value"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 21,
-                  "charOffset": 109,
-                  "snippet": {
-                    "text": ".cr282_donvi_tuoi_den"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_donvi_tuoi_den"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 100,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DefaultSelectedItems",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 132,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "If(IsBlank(ThisItem.cr282_donvi_tuoi_den),LookUp(dvTuoiCollect,Value=100),LookUp(dvTuoiCollect,Value=ThisItem.cr282_donvi_tuoi_den))"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "_Min"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrBadType-Type",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.Items",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 13,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": "dvTuoiCollect"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "dvTuoiCollect"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.Items",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 56,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SortByColumns(dvTuoiCollect,\"Value\",SortOrder.Ascending)"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SortByColumns"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": ".edited"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "edited"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".cr282_ghi_chu"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextGhiChuDT"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "cr282_ghi_chu"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": ".edited"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextGhiChuDT"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "edited"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextGhiChuDT"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Number"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.Visible"
                 }
               ],
@@ -1753,6 +104,200 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 10,
+                  "charOffset": 47,
+                  "snippet": {
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 57,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 24,
+                  "charOffset": 39,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiTu.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 86,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 97,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 6,
                   "charOffset": 106,
                   "snippet": {
@@ -1768,16 +313,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -1817,6 +359,200 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 159,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 170,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 151,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 199,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 211,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
           "ruleIndex": 2
         },
         {
@@ -1848,16 +584,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -1897,6 +630,200 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 388,
+                  "snippet": {
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 398,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 24,
+                  "charOffset": 380,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiTu.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 423,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 434,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
           "ruleIndex": 2
         },
         {
@@ -1928,16 +855,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -1977,6 +901,200 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 469,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 480,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 461,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 505,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 517,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
           "ruleIndex": 2
         },
         {
@@ -2008,16 +1126,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2057,6 +1172,83 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 580,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 592,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
           "ruleIndex": 2
         },
         {
@@ -2088,8 +1280,45 @@
             }
           ],
           "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 608,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
             "arguments": [
-              "Value"
+              "CbxDVTuoiTu"
             ],
             "id": "issue"
           },
@@ -2098,6 +1327,43 @@
           },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 619,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2128,16 +1394,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2194,10 +1457,87 @@
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 6,
-                  "charOffset": 747,
+                  "charLength": 10,
+                  "charOffset": 658,
                   "snippet": {
-                    "text": ".Value"
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 668,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 22,
+                  "charOffset": 652,
+                  "snippet": {
+                    "text": "Value(TextTuoiTu.Text)"
                   }
                 }
               },
@@ -2217,8 +1557,316 @@
           "properties": {
             "level": "High"
           },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 681,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 692,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 675,
+                  "snippet": {
+                    "text": "Value(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Value"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 726,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 738,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 747,
+                  "snippet": {
+                    "text": ".Value"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 754,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 765,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2249,16 +1897,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2435,6 +2080,200 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 10,
+                  "charOffset": 1211,
+                  "snippet": {
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 1221,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 24,
+                  "charOffset": 1203,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiTu.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 1373,
+                  "snippet": {
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 1383,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 13,
                   "charOffset": 1466,
                   "snippet": {
@@ -2499,7 +2338,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -2555,6 +2394,83 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 11,
+                  "charOffset": 1486,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 1497,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 6,
                   "charOffset": 1506,
                   "snippet": {
@@ -2570,16 +2486,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2676,6 +2589,240 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 295,
+                  "charOffset": 1289,
+                  "snippet": {
+                    "text": "Concatenate(\n                                \"từ \",\n                                TextTuoiTu.Text,\n                                \" \",\n                                LookUp(dvTuoiCollect,Value=CbxDVTuoiTu.Selected.Value,Key),\n                                \" \"\n                            )"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Concatenate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 1676,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 1687,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 1668,
+                  "snippet": {
+                    "text": "IsBlank(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 1840,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 1851,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 13,
                   "charOffset": 1934,
                   "snippet": {
@@ -2740,7 +2887,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -2796,6 +2943,83 @@
                   "relativeAddress": 0
                 },
                 "region": {
+                  "charLength": 12,
+                  "charOffset": 1954,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 1966,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
                   "charLength": 6,
                   "charOffset": 1975,
                   "snippet": {
@@ -2811,16 +3035,13 @@
             }
           ],
           "message": {
-            "arguments": [
-              "Value"
-            ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2917,10 +3138,127 @@
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 6,
-                  "charOffset": 2306,
+                  "charLength": 298,
+                  "charOffset": 1755,
                   "snippet": {
-                    "text": ".Value"
+                    "text": "Concatenate(\n                                \"đến \",\n                                TextTuoiDen.Text,\n                                \" \",\n                                LookUp(dvTuoiCollect,Value=CbxDVTuoiDen.Selected.Value,Key),\n                                \" \"\n                            )"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Concatenate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 2188,
+                  "snippet": {
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2198,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 22,
+                  "charOffset": 2182,
+                  "snippet": {
+                    "text": "Value(TextTuoiTu.Text)"
                   }
                 }
               },
@@ -2940,8 +3278,316 @@
           "properties": {
             "level": "High"
           },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 2237,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2248,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 2231,
+                  "snippet": {
+                    "text": "Value(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Value"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 2286,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 2297,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 2306,
+                  "snippet": {
+                    "text": ".Value"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 2345,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 2357,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2972,8 +3618,45 @@
             }
           ],
           "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 2398,
+                  "snippet": {
+                    "text": "TextGhiChuDT"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
             "arguments": [
-              "Value"
+              "TextGhiChuDT"
             ],
             "id": "issue"
           },
@@ -2982,6 +3665,43 @@
           },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2410,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3021,7 +3741,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -3141,7 +3861,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -3278,10 +3998,87 @@
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 6,
-                  "charOffset": 2735,
+                  "charLength": 10,
+                  "charOffset": 2617,
                   "snippet": {
-                    "text": ".Value"
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2627,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 22,
+                  "charOffset": 2611,
+                  "snippet": {
+                    "text": "Value(TextTuoiTu.Text)"
                   }
                 }
               },
@@ -3301,8 +4098,316 @@
           "properties": {
             "level": "High"
           },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 2666,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2677,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 2660,
+                  "snippet": {
+                    "text": "Value(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Value"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 2715,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 2726,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 2735,
+                  "snippet": {
+                    "text": ".Value"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 2774,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 2786,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3333,8 +4438,45 @@
             }
           ],
           "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 2827,
+                  "snippet": {
+                    "text": "TextGhiChuDT"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
             "arguments": [
-              "Value"
+              "TextGhiChuDT"
             ],
             "id": "issue"
           },
@@ -3343,6 +4485,43 @@
           },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 2839,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3382,7 +4561,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -3519,10 +4698,87 @@
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 6,
-                  "charOffset": 3225,
+                  "charLength": 10,
+                  "charOffset": 3103,
                   "snippet": {
-                    "text": ".Value"
+                    "text": "TextTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 3113,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 22,
+                  "charOffset": 3097,
+                  "snippet": {
+                    "text": "Value(TextTuoiTu.Text)"
                   }
                 }
               },
@@ -3542,8 +4798,316 @@
           "properties": {
             "level": "High"
           },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 3154,
+                  "snippet": {
+                    "text": "TextTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TextTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 3165,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 3148,
+                  "snippet": {
+                    "text": "Value(TextTuoiDen.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Value"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 3205,
+                  "snippet": {
+                    "text": "CbxDVTuoiTu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiTu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 3216,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 3225,
+                  "snippet": {
+                    "text": ".Value"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 3266,
+                  "snippet": {
+                    "text": "CbxDVTuoiDen"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "CbxDVTuoiDen"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 3278,
+                  "snippet": {
+                    "text": ".Selected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3574,8 +5138,45 @@
             }
           ],
           "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 3321,
+                  "snippet": {
+                    "text": "TextGhiChuDT"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
             "arguments": [
-              "Value"
+              "TextGhiChuDT"
             ],
             "id": "issue"
           },
@@ -3584,6 +5185,43 @@
           },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 3333,
+                  "snippet": {
+                    "text": ".Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3665,7 +5303,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -3745,7 +5383,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -4065,7 +5703,44 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TracuuSP.GalleryDT.IconLuuDT.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 63,
+                  "charOffset": 4013,
+                  "snippet": {
+                    "text": "UpdateContext({\n        maAdded:\"\",\n        maUpdated:\"\"\n    })"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "TracuuSP",
+                "type": "TracuuSP.GalleryDT.IconLuuDT"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleCtxtVariableTypes",
+          "ruleIndex": 6
         },
         {
           "locations": [
@@ -4547,7 +6222,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -4627,7 +6302,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -4788,7 +6463,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -5027,7 +6702,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -5385,7 +7060,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -5808,156 +7483,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiTu.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiTu.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiTu"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextTuoiDen.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.CbxDVTuoiDen.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.CbxDVTuoiDen"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TracuuSP.GalleryDT.TextGhiChuDT.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "TracuuSP",
-                "type": "TracuuSP.GalleryDT.TextGhiChuDT"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "TracuuSP.GalleryDT.IconEditDT.AccessibleLabel"
                 }
               ],
@@ -6205,10 +7730,10 @@
               }
             },
             {
-              "id": "app-ErrInvalidArgs-Func",
+              "id": "app-ErrInvalidDot",
               "messageStrings": {
                 "issue": {
-                  "text": "The function '{0}' has some invalid arguments."
+                  "text": "Invalid use of '.'"
                 }
               },
               "properties": {
@@ -6219,10 +7744,10 @@
               }
             },
             {
-              "id": "app-ErrBadType-Type",
+              "id": "app-ErrInvalidArgs-Func",
               "messageStrings": {
                 "issue": {
-                  "text": "Invalid argument type. Cannot use {0} values in this context."
+                  "text": "The function '{0}' has some invalid arguments."
                 }
               },
               "properties": {
