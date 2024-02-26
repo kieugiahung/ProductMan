@@ -100,7 +100,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 83,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
@@ -115,7 +115,6 @@
     "FileID": "8b439050-8428-41cc-aaf5-a6fa50dab051",
     "Id": "8b439050-8428-41cc-aaf5-a6fa50dab051",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "",
     "ManualOfflineProfileId": "",
     "Name": "ProductMan",
     "OriginatingVersion": "1.336",
@@ -137,6 +136,7 @@
     "Screen1",
     "Screen2",
     "Screen3",
-    "Screen4"
+    "Screen4",
+    "TracuuSP"
   ]
 }

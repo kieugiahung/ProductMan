@@ -1,0 +1,106 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr282_dl_san_phams",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr282_dl_san_pham",
+    "Name": "DL_SAN_PHAM",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "Owner",
+      "cr282_dl_san_pham_AsyncOperations": "System Jobs",
+      "cr282_dl_san_pham_BulkDeleteFailures": "Bulk Delete Failures",
+      "cr282_dl_san_pham_DuplicateBaseRecord": "Duplicate Records (cr282_dl_san_pham_DuplicateBaseRecord)",
+      "cr282_dl_san_pham_DuplicateMatchingRecord": "Duplicate Records (cr282_dl_san_pham_DuplicateMatchingRecord)",
+      "cr282_dl_san_pham_FileAttachments": "FileAttachments",
+      "cr282_dl_san_pham_MailboxTrackingFolders": "Mailbox Auto Tracking Folders",
+      "cr282_dl_san_pham_PrincipalObjectAttributeAccesses": "Field Sharing",
+      "cr282_dl_san_pham_ProcessSession": "Process Sessions",
+      "cr282_dl_san_pham_SyncErrors": "Sync Errors",
+      "cr282_dl_san_phamid": "DL_SAN_PHAM",
+      "cr282_hl_den": "HL_DEN",
+      "cr282_hl_tu": "HL_TU",
+      "cr282_lhnv": "LHNV",
+      "cr282_ma": "MA",
+      "cr282_ma_san_pham": "MA_SAN_PHAM",
+      "cr282_mo_ta": "MO_TA",
+      "cr282_quy_tac_bh": "QUY_TAC_BH",
+      "cr282_so_van_ban": "SO_VAN_BAN",
+      "cr282_tai_lieu_mau": "TAI_LIEU_MAU",
+      "cr282_ten_san_pham": "TEN_SAN_PHAM",
+      "createdby": "Created By",
+      "createdon": "Created On",
+      "createdonbehalfby": "Created By (Delegate)",
+      "importsequencenumber": "Import Sequence Number",
+      "modifiedby": "Modified By",
+      "modifiedon": "Modified On",
+      "modifiedonbehalfby": "Modified By (Delegate)",
+      "overriddencreatedon": "Record Created On",
+      "owningbusinessunit": "Owning Business Unit",
+      "owningteam": "Owning Team",
+      "owninguser": "Owning User",
+      "statecode": "Status",
+      "statuscode": "Status Reason",
+      "timezoneruleversionnumber": "Time Zone Rule Version Number",
+      "utcconversiontimezonecode": "UTC Conversion Time Zone Code",
+      "versionnumber": "Version Number"
+    },
+    "PreferredName": "DL_SAN_PHAM",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "DL_SAN_PHAM (Views)",
+    "Name": "_cr282_dl_san_pham_views",
+    "RelatedEntityName": "DL_SAN_PHAM",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "16775832-d196-4375-ab17-645789ce3326": "DL_SAN_PHAM Advanced Find View",
+      "7257db2e-9e93-47a0-826f-6d4c3a522b32": "Active DL_SAN_PHAM",
+      "783d3afe-5f4c-4eb3-a092-5449f5c63b04": "DL_SAN_PHAM Associated View",
+      "7ea4d233-f3b2-4fd0-87e6-29eb8d7689a4": "Inactive DL_SAN_PHAM",
+      "fe5b3e78-da36-4b1e-8da4-c2d72edde65c": "DL_SAN_PHAM Lookup View"
+    }
+  },
+  {
+    "DisplayName": "Status (DL_SAN_PHAM)",
+    "Name": "cr282_dl_san_pham_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "Active",
+      "1": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "DL_SAN_PHAM"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "DL_SAN_PHAM",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Status Reason (DL_SAN_PHAM)",
+    "Name": "cr282_dl_san_pham_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "Active",
+      "2": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "DL_SAN_PHAM"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "DL_SAN_PHAM",
+    "Type": "OptionSetInfo"
+  }
+]
