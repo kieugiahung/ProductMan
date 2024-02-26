@@ -314,6 +314,26 @@ TracuuSP As screen:
             X: =416
             ZIndex: =18
 
+        TextMoTaDT_3 As text:
+            BorderColor: =RGBA(72, 163, 62, 1)
+            BorderThickness: =2
+            Color: =RGBA(0, 0, 0, 1)
+            Default: =ThisItem.MO_TA
+            DisabledBorderColor: =RGBA(180, 214, 250, 1)
+            DisabledColor: =RGBA(0, 0, 0, 1)
+            DisabledFill: =RGBA(255, 255, 255, 1)
+            DisplayMode: =
+            FocusedBorderThickness: =4
+            HoverBorderColor: =RGBA(0, 18, 107, 1)
+            HoverColor: =RGBA(0, 0, 0, 1)
+            HoverFill: =RGBA(186, 202, 226, 1)
+            OnChange: =
+            OnSelect: =Select(Parent)
+            Size: =13
+            Width: =195
+            X: =611
+            ZIndex: =19
+
     BadgeCanvas1_1 As Badge:
         BasePaletteColor: =
         Content: =""
@@ -436,4 +456,16 @@ TracuuSP As screen:
         X: =462
         Y: =101
         ZIndex: =14
+
+    TextCanvas2_10 As Text:
+        DisplayMode: =DisplayMode.Edit
+        FontColor: =
+        Height: =38
+        Size: =14
+        Text: ="Mô tả"
+        Weight: ='TextCanvas.Weight'.Bold
+        Width: =96
+        X: =663
+        Y: =101
+        ZIndex: =15
 
