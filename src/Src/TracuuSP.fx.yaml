@@ -513,7 +513,7 @@ TracuuSP As screen:
                     idMa:If(
                         CountIf(DL_SAN_PHAM,true)=0,
                         1000,
-                        Value(Last(SortByColumns(DL_SAN_PHAM,"cr282_ma_do_tuoi",SortOrder.Ascending)).MA_DO_TUOI)+1
+                        Value(Last(SortByColumns(DL_SAN_PHAM,"cr282_ma_do_tuoi",SortOrder.Ascending)).MA_SAN_PHAM)+1
                     )
                 });
                 Collect(
