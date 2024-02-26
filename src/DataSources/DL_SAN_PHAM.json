@@ -6,6 +6,7 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "cr282_dl_san_pham",
+    "MaxGetRowsCount": 500,
     "Name": "DL_SAN_PHAM",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "Owner",

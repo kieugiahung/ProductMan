@@ -6,6 +6,13 @@
       "Values": {
         "Information": "ea5b9521-c2b4-44a2-bd30-dce6a7a80c70"
       }
+    },
+    {
+      "Kind": "default.cds_cr282_bh_dm_gioitinh_forms",
+      "Namespace": "BH_DM_Gioitinh (Forms)",
+      "Values": {
+        "Information": "bebb8a06-68cd-43c7-95f9-ea17ad71a656"
+      }
     }
   ]
 }

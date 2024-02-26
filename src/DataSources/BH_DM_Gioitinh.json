@@ -1,0 +1,119 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr282_bh_dm_gioitinhs",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr282_bh_dm_gioitinh",
+    "MaxGetRowsCount": 500,
+    "Name": "BH_DM_Gioitinh",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "Owner",
+      "cr282_bh_dm_gioitinh_AsyncOperations": "System Jobs",
+      "cr282_bh_dm_gioitinh_BulkDeleteFailures": "Bulk Delete Failures",
+      "cr282_bh_dm_gioitinh_MailboxTrackingFolders": "Mailbox Auto Tracking Folders",
+      "cr282_bh_dm_gioitinh_PrincipalObjectAttributeAccesses": "Field Sharing",
+      "cr282_bh_dm_gioitinh_ProcessSession": "Process Sessions",
+      "cr282_bh_dm_gioitinh_SyncErrors": "Sync Errors",
+      "cr282_bh_dm_gioitinhid": "BH_DM_Gioitinh",
+      "cr282_dn_baohiem": "DN_Baohiem",
+      "cr282_ma_gioitinh": "Ma_Gioitinh",
+      "cr282_ten_gioitinh": "Ten_Gioitinh",
+      "cr282_thoigian_tao": "Thoigian_Tao",
+      "cr282_trang_thai": "Trang_Thai",
+      "createdby": "Created By",
+      "createdon": "Created On",
+      "createdonbehalfby": "Created By (Delegate)",
+      "importsequencenumber": "Import Sequence Number",
+      "modifiedby": "Modified By",
+      "modifiedon": "Modified On",
+      "modifiedonbehalfby": "Modified By (Delegate)",
+      "overriddencreatedon": "Record Created On",
+      "owningbusinessunit": "Owning Business Unit",
+      "owningteam": "Owning Team",
+      "owninguser": "Owning User",
+      "statecode": "Status",
+      "statuscode": "Status Reason",
+      "timezoneruleversionnumber": "Time Zone Rule Version Number",
+      "utcconversiontimezonecode": "UTC Conversion Time Zone Code",
+      "versionnumber": "Version Number"
+    },
+    "PreferredName": "BH_DM_Gioitinh",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "BH_DM_Gioitinh (Views)",
+    "Name": "_cr282_bh_dm_gioitinh_views",
+    "RelatedEntityName": "BH_DM_Gioitinh",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "4fa35099-76dd-4a1f-b37d-66474de76509": "BH_DM_Gioitinh Associated View",
+      "59d15989-79a6-4a70-b794-e895a3c33091": "Active BH_DM_Gioitinh",
+      "5ee68eff-cc88-4c9d-a00e-cd69b2d4ada1": "BH_DM_Gioitinh Advanced Find View",
+      "624e27a1-d350-4937-b9f8-5840eb86a391": "Inactive BH_DM_Gioitinh",
+      "fd92dc9f-78b1-4a90-8f20-a7f6e8e4799b": "BH_DM_Gioitinh Lookup View"
+    }
+  },
+  {
+    "DisplayName": "Trang_Thai (BH_DM_Gioitinh)",
+    "Name": "cr282_bh_dm_gioitinh_cr282_trang_thai",
+    "OptionSetInfoNameMapping": {
+      "0": "Ngừng hoạt động",
+      "1": "Hoạt động"
+    },
+    "OptionSetIsBooleanValued": true,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "cr282_trang_thai",
+        "OptionSetReferenceEntityName": "BH_DM_Gioitinh"
+      }
+    },
+    "OptionSetTypeKey": "BooleanType",
+    "RelatedColumnInvariantName": "cr282_trang_thai",
+    "RelatedEntityName": "BH_DM_Gioitinh",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Status (BH_DM_Gioitinh)",
+    "Name": "cr282_bh_dm_gioitinh_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "Active",
+      "1": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "BH_DM_Gioitinh"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "BH_DM_Gioitinh",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Status Reason (BH_DM_Gioitinh)",
+    "Name": "cr282_bh_dm_gioitinh_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "Active",
+      "2": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "BH_DM_Gioitinh"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "BH_DM_Gioitinh",
+    "Type": "OptionSetInfo"
+  }
+]

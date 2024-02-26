@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "DL_SAN_PHAM",
   "environmentVariableName": "",
-  "InstanceUrl": "https://org1ffcff47.crm.dynamics.com",
+  "InstanceUrl": "https://org1ffcff47.crm.dynamics.com/",
   "LocalReferenceDSJson": {
     "entitySetName": "cr282_dl_san_phams",
     "logicalName": "cr282_dl_san_pham"

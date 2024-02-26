@@ -5,7 +5,7 @@ TracuuSP As screen:
         BorderColor: =RGBA(0, 18, 107, 1)
         DelayItemLoading: =true
         Height: =611
-        Items: =SortByColumns(tmpDTCollect,"cr282_ma_do_tuoi",SortOrder.Ascending)
+        Items: =DL_SAN_PHAM
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         NavigationStep: =0
@@ -44,7 +44,7 @@ TracuuSP As screen:
             BorderColor: =RGBA(15, 108, 189, 1)
             BorderThickness: =2
             Color: =RGBA(0, 0, 0, 1)
-            Default: =ThisItem.cr282_ma_do_tuoi
+            Default: =ThisItem.MA_SAN_PHAM
             DisabledBorderColor: =RGBA(180, 214, 250, 1)
             DisabledColor: =RGBA(0, 0, 0, 1)
             DisabledFill: =RGBA(255, 255, 255, 1)
@@ -63,11 +63,11 @@ TracuuSP As screen:
             BorderColor: =RGBA(72, 163, 62, 1)
             BorderThickness: =2
             Color: =RGBA(0, 0, 0, 1)
-            Default: =ThisItem.cr282_mo_ta
+            Default: =ThisItem.LHNV
             DisabledBorderColor: =RGBA(180, 214, 250, 1)
             DisabledColor: =RGBA(0, 0, 0, 1)
             DisabledFill: =RGBA(255, 255, 255, 1)
-            DisplayMode: =If(ThisItem.edited=0,DisplayMode.Disabled,DisplayMode.Edit) 
+            DisplayMode: =
             FocusedBorderThickness: =4
             HoverBorderColor: =RGBA(0, 18, 107, 1)
             HoverColor: =RGBA(0, 0, 0, 1)
@@ -407,10 +407,10 @@ TracuuSP As screen:
         Content: =""
         DisplayMode: =DisplayMode.Edit
         FontColor: =
-        Height: =42
-        Width: =1122
-        X: =126
-        Y: =97
+        Height: =41
+        Width: =1208
+        X: =40
+        Y: =98
         ZIndex: =2
 
     TextCanvas2_6 As Text:
@@ -430,10 +430,10 @@ TracuuSP As screen:
         FontColor: =
         Height: =38
         Size: =14
-        Text: ="Mô tả"
+        Text: ="Loại hình nghiệp vụ"
         Weight: ='TextCanvas.Weight'.Bold
-        Width: =96
-        X: =172
+        Width: =140
+        X: =154
         Y: =97
         ZIndex: =4
 
@@ -513,7 +513,7 @@ TracuuSP As screen:
                     idMa:If(
                         CountIf(DL_SAN_PHAM,true)=0,
                         1000,
-                        Value(Last(SortByColumns(DL_SAN_PHAM,"cr282_ma_do_tuoi",SortOrder.Ascending)).MA_SAN_PHAM)+1
+                        Value(Last(SortByColumns(DL_SAN_PHAM,"cr282_ma_do_tuoi",SortOrder.Ascending)).MA)+1
                     )
                 });
                 Collect(
